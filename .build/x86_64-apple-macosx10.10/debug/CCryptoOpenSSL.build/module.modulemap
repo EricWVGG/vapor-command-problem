@@ -1,4 +1,0 @@
-module CCryptoOpenSSL {
-    umbrella "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/CCryptoOpenSSL/include"
-    export *
-}

@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "c1b70112045b696cae0fc984fe5a57a5"
-build_time: [1538411034, 732633000]
-inputs:
-  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/Quiz.swift": [1538410814, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/app.swift": [1538408657, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/boot.swift": [1538408657, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/configure.swift": [1538410244, 0]

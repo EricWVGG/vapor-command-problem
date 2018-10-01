@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "a7cffcac593c56982ffb05e3a1ff802a"
-build_time: [1538411035, 139127000]
-inputs:
-  "/Users/wvgg/Desktop/vapor-command-problem/Sources/Run/main.swift": [1538408657, 0]

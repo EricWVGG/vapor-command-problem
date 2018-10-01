@@ -1,9 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "d465f896b4dadd166b1e9d48e10bd4f9"
-build_time: [1538411031, 152159000]
-inputs:
-  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/websocket.git--162067343411433058/Sources/WebSocket/Exports.swift": [1538411004, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/websocket.git--162067343411433058/Sources/WebSocket/WebSocket+Client.swift": [1538411004, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/websocket.git--162067343411433058/Sources/WebSocket/WebSocket+Server.swift": [1538411004, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/websocket.git--162067343411433058/Sources/WebSocket/WebSocket.swift": [1538411004, 0]
-  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/websocket.git--162067343411433058/Sources/WebSocket/WebSocketHandler.swift": [1538411004, 0]
