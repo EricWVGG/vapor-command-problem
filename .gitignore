@@ -1,6 +1,7 @@
 Packages
 .build
 xcuserdata
+commandTest.xcodeproj
 *.xcodeproj
 DerivedData/
 .DS_Store
