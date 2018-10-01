@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "770e0889046ce0e76855a6d5a3c4a851"
+build_time: [1538411018, 189040000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Async+NIO.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/AsyncError.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Collection+Future.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Deprecated.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Exports.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+DoCatch.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+Flatten.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+Global.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+Map.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+Transform.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+Variadic.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Future+Void.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/FutureType.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/QueueHandler.swift": [1538411001, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/core.git-1751696017435961476/Sources/Async/Worker.swift": [1538411001, 0]

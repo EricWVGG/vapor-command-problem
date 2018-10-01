@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swiftdeps"
+  }
+}

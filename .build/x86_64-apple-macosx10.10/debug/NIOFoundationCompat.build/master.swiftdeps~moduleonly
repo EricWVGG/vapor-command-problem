@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "f2febb607b3d095ec95ef99b5304ff4c"
+build_time: [1538411018, 191233000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1538411002, 0]

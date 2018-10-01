@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/Sources/Run/main.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/Run.build/main.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/Run.build/main.swiftdeps"
+  }
+}

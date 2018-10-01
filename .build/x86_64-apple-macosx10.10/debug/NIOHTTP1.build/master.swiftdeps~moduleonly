@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "71edede4585a0986cdfc74abb3905513"
+build_time: [1538411018, 189041000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPDecoder.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPEncoder.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPTypes.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1538411002, 0]

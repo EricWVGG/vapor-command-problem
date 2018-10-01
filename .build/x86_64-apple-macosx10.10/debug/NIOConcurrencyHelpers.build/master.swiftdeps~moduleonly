@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "ec3aa66fb6750efb5ae827a1da36179a"
+build_time: [1538411014, 601533000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOConcurrencyHelpers/atomics.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOConcurrencyHelpers/lock.swift": [1538411002, 0]

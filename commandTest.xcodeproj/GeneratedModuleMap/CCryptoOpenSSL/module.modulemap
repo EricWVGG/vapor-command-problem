@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/wvgg/Desktop/commandTest/.build/checkouts/crypto.git-6556766520403146899/Sources/CCryptoOpenSSL/include"
+    export *
+}

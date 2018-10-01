@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Users/wvgg/Desktop/commandTest/.build/checkouts/swift-nio.git-5651679514527901967/Sources/CNIOSHA1/include"
+    export *
+}

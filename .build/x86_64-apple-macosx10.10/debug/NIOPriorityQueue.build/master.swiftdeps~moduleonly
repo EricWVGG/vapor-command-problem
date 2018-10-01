@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "402a3ce1cbf04b0911d86a37426ba577"
+build_time: [1538411010, 324524000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOPriorityQueue/Heap.swift": [1538411002, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOPriorityQueue/PriorityQueue.swift": [1538411002, 0]

@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "822e121ea5217d3b0c80af6b3128b946"
+build_time: [1538411031, 446317000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Base/CommandOption.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Base/CommandRunnable.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Command/Command.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Command/CommandArgument.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Config/CommandConfig.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Config/Commands.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Group/BasicCommandGroup.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Group/CommandGroup.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Run/CommandContext.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Run/CommandInput.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Run/Console+Run.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Run/Output+Autocomplete.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Run/Output+Help.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Utilities/CommandError.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Utilities/Exports.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/console.git--3405563979492584163/Sources/Command/Utilities/Utilities.swift": [1538411003, 0]

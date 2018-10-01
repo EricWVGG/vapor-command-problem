@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/master.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOPriorityQueue/Heap.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/swift-nio.git-4353427377977426615/Sources/NIOPriorityQueue/PriorityQueue.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swiftdeps"
+  }
+}

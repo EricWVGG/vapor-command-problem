@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/Quiz.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/Quiz.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/Quiz.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/Quiz~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/Quiz.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/app.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/app.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/app.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/app.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/boot.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/boot.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/wvgg/Desktop/vapor-command-problem/Sources/App/configure.swift": {
+    "dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/configure.d",
+    "object": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/wvgg/Desktop/vapor-command-problem/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swiftdeps"
+  }
+}

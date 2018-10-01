@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "92832df3742348d46fe0bc021b8d48ca"
+build_time: [1538411023, 599890000]
+inputs:
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/BCrypt/BCryptDigest.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Cipher/Cipher.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Digest/Digest.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Digest/DigestAlgorithm.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/MAC/HMAC.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/MAC/OTP.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/RSA/RSA.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/RSA/RSAKey.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/RSA/RSAPadding.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Random/CryptoRandom.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Utilities/Base32.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Utilities/CryptoError.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Utilities/Deprecated.swift": [1538411003, 0]
+  "/Users/wvgg/Desktop/vapor-command-problem/.build/checkouts/crypto.git--343177597602750896/Sources/Crypto/Utilities/Exports.swift": [1538411003, 0]
